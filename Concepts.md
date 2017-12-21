@@ -1,4 +1,5 @@
-#Concepts
+Concepts
+--------
 
 - Praxis
 - Catholicism
